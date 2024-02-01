@@ -1,16 +1,15 @@
-### Hi there 👋
+### Tạp Hóa Số
 
-<!--
-**taphoaso/taphoaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tạp Hóa Số cung cấp thông tin kiến thức hữu ích về kinh doanh, thực phẩm, mẹo hay cuộc sống cho bạn và gia đình. Bạn có thể đặt mua sản phẩm online trực tiếp trên website.
 
-Here are some ideas to get you started:
+- Địa chỉ: Số 5, Đường Nguyễn Trãi, phường Liên Bảo, thành phố Vĩnh Yên, tỉnh Vĩnh Phúc
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SĐT: 02113616618
+
+- Website: https://taphoaso.com/
+
+https://www.pinterest.com/taphoaso/
+
+https://vimeo.com/taphoaso
+
+https://www.youtube.com/channel/UC7uCE9v3IUfPM6WUpeinymg
